@@ -1,0 +1,48 @@
+body {
+  background-color: #4d2574;
+  color: #4d2574;
+}
+
+h1 {
+  background-color: #33184e;
+  color: white;
+}
+
+div {
+  background-color: #33184e;
+  color: white;
+}
+
+/* Style all font awesome icons */
+.fa {
+  padding: 30px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Instagram */
+.fa-instagram {
+  background: #4d2574;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #4d2574;
+  color: white;
+}
+
+/* Youtube */
+.fa-youtube {
+  background: #4d2574;
+  color: white;
+}
